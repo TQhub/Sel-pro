@@ -1,0 +1,8 @@
+11:31:47.944 [main] INFO  resources.base - Restricted user2
+11:32:07.163 [main] INFO  resources.base - Non restricted user2
+11:34:38.158 [main] INFO  resources.base - Non restricted user
+11:34:48.708 [main] INFO  resources.base - Restricted user2
+11:35:07.860 [main] INFO  resources.base - Non restricted user2
+14:39:29.390 [main] INFO  resources.base - Non restricted user
+14:39:48.723 [main] INFO  resources.base - Restricted user2
+14:40:07.484 [main] INFO  resources.base - Non restricted user2
